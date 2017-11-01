@@ -5,4 +5,5 @@
 000104171027 where Campo = :Variable;     //Variable o Constante
 000109171026*inlr=*on;
 000110171101 //Insertar comentario
+000111171101 // Otra Prueba
 000112171101  //Eliminación de Return
